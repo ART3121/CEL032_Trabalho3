@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "projectName": "trabalho_cirlog_3",
+    "createdAt": "2026-11-16T13:28:54.824Z",
+    "lastModified": "2026-11-18T18:22:24.380Z",
+    "computerName": "fedora",
+    "appVersion": "aurora 1.1.0",
+    "projectPath": "C:\\Users\\Aluno\\Projetos\\CEL032_Trabalho_3"
+  },
+  "structure": {
+    "basePath": "C:\\Users\\Aluno\\Projetos\\CEL032_Trabalho_3",
+    "processors": [],
+    "folders": [],
+    "topLevelFile": "rtl/top_level.v",
+    "testbenchFile": "tb/register_tb.v",
+    "synthesizableFiles": [
+      {
+        "name": "top_level.v",
+        "path": "rtl/top_level.v",
+        "isTopLevel": true
+      },
+      {
+        "name": "register.v",
+        "path": "rtl/register.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "dff.v",
+        "path": "rtl/dff.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "tff.v",
+        "path": "rtl/tff.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "c_ud_13.v",
+        "path": "rtl/c_ud_13.v",
+        "isTopLevel": false
+      }
+    ],
+    "testbenchFiles": [
+      {
+        "name": "count_tb.v",
+        "path": "tb/count_tb.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "register_tb.v",
+        "path": "tb/register_tb.v",
+        "isTopLevel": true
+      },
+      {
+        "name": "main_tb.v",
+        "path": "tb/main_tb.v",
+        "isTopLevel": false
+      },
+      {
+        "name": "ff_t_tb.v",
+        "path": "tb/ff_t_tb.v",
+        "isTopLevel": false
+      }
+    ]
+  }
+}
